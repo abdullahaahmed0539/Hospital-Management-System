@@ -1,0 +1,21 @@
+panadol:1.0
+panadol extra:8.0
+adol:10.0
+brufen:9.0
+aspirin:10.0
+codeine:10.0
+morphine:10.0
+quinestar:8.0
+doxylin:10.0
+axomax:10.0
+febrol:-3.0
+neubrol:10.0
+doxy:10.0
+iodex:9.0
+hydrogen peroxide solution:8.0
+piodine:10.0
+prozac:10.0
+zyprexa:9.0
+cypralex:10.0
+centrum:10.0
+alive:10.0

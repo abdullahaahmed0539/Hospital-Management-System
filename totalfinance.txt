@@ -1,0 +1,22 @@
+medicine: 1045
+medicine: 120
+medicine: 805
+medicine: 420
+appointment: 2000 PKR
+appointment: 2000 PKR
+appointment: 2000 PKR
+appointment: 2000 PKR
+appointment: 3000
+appointment: 5000
+appointment: 3000 PKR
+appointment: 3000 PKR
+appointment: 3000 PKR
+appointment: 3000 PKR
+medicine: 250
+medicine: 120
+medicine: 330
+appointment: 3000 PKR
+medicine: 220
+appointment: 3000 PKR
+medicine: 300
+medicine: 2930
